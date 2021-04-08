@@ -1,0 +1,4 @@
+[submodule "saraththarayil/public"]
+	path = saraththarayil/public
+	url = https://github.com/SarathTharayil/saraththarayil.github.io.git
+	branch = main
