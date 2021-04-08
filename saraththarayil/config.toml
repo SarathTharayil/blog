@@ -9,6 +9,7 @@ paginate     = 10
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  EnableThemeToggle = true
 
   # Subtitle for home
   homeSubtitle = "Hey, glad you are here :P"
@@ -28,6 +29,9 @@ paginate     = 10
     category = "blog"
     tag      = "tags"
     series   = "series"
+
+[author]
+  name = "Sarath Tharayil"
 
 [languages]
   [languages.en]
