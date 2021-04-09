@@ -41,9 +41,16 @@ paginate     = 10
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
+    [languages.en.params.logoblog]
+      logoText = "root@saraththarayil1/blog #"
+      logoHomeLink = "/posts"
+
     [languages.en.params.logo]
-      logoText = "saraththarayil"
+      logoText = "root@saraththarayil #"
       logoHomeLink = "/"
+    
+    
+
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -54,3 +61,4 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
