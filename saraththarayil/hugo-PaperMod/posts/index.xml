@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sarath Tharayil</title>
+    <link>https://saraththarayil.com/posts/</link>
+    <description>Recent content in Posts on Sarath Tharayil</description>
+    <image>
+      <url>https://saraththarayil.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://saraththarayil.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Apr 2021 01:39:36 +0530</lastBuildDate><atom:link href="https://saraththarayil.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Hugo Commands</title>
+      <link>https://saraththarayil.com/posts/usefulcommmands/</link>
+      <pubDate>Fri, 09 Apr 2021 01:39:36 +0530</pubDate>
+      
+      <guid>https://saraththarayil.com/posts/usefulcommmands/</guid>
+      <description>Hey I&amp;rsquo;ve just created this site and looks what it needs some content! So, I&amp;rsquo;m adding some Hugo setup basics here just to make sure I dont forget about the process and seems like some of you might can take inspirations from it.
+Basic Installation For the Windows users out there
+(Mac/Linux users chill please, I&amp;rsquo;ll add when I revisit this one)
+choco install hugo -confirmMake sure you have Chocolatey installed.</description>
+    </item>
+    
+  </channel>
+</rss>
